@@ -1,5 +1,7 @@
 Platformer Power!
-game still on progress...
+
+*game still on progress...*
+
 A classic side-scrolling platformer game featuring:
 
 Fluid Animations: Characters and objects come alive with smooth movement and actions.
